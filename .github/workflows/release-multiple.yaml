@@ -1,4 +1,4 @@
-name: Release multiple devices
+name: release multiple devices
 
 on:
   schedule:
