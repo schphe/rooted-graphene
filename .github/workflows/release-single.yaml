@@ -1,4 +1,4 @@
-name: Release single device
+name: release single device
 
 on:
   # Note that push/PR will not release, only build to see if there are obvious failures
