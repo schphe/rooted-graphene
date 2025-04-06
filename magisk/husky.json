@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/schphe/rooted-graphene/releases/download/2025032500/husky-2025032500-f5e5161-magisk-v27.2-kitsune-4.zip",
-    "location_csig": "https://github.com/schphe/rooted-graphene/releases/download/2025032500/husky-2025032500-f5e5161-magisk-v27.2-kitsune-4.zip.csig"
+    "location_ota": "https://github.com/schphe/rooted-graphene/releases/download/2025040400/husky-2025040400-f5e5161-magisk-v27.2-kitsune-4.zip",
+    "location_csig": "https://github.com/schphe/rooted-graphene/releases/download/2025040400/husky-2025040400-f5e5161-magisk-v27.2-kitsune-4.zip.csig"
   }
 }
